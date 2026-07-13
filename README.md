@@ -119,7 +119,7 @@ ssh bandit2@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+#################################
 ```
 
 ---
@@ -136,9 +136,9 @@ ssh bandit2@bandit.labs.overthewire.org -p 2220
 cat -- "--spaces in this filename--"
 ```
 
-![](assets/bandit2/step1.png)
+![](assets/bandit2/bandit2.png)
 
-> **Password:** MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+> **Password:** #################################
 
 ### Explanation
 
@@ -152,7 +152,7 @@ ssh bandit3@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+########################################
 ```
 
 ---
@@ -174,9 +174,9 @@ ls -la
 cat ...Hiding-From-You
 ```
 
-![](assets/bandit3/step1.png)
+![](assets/bandit3/bandit3.png)
 
-> **Password:** 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+> **Password:** ##################################
 
 ### Explanation
 
@@ -190,7 +190,7 @@ ssh bandit4@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+#################################
 ```
 
 ---
