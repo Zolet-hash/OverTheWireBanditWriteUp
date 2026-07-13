@@ -305,9 +305,9 @@ ssh bandit6@bandit.labs.overthewire.org -p 2220
 find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
 ```
 
-![](assets/bandit6/step1.png)
+![](assets/bandit6/bandit6.png)
 
-> **Password:** morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+> **Password:** ###########################
 
 ### Explanation
 
@@ -329,7 +329,7 @@ ssh bandit7@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+##########################################
 ```
 
 ---
@@ -348,9 +348,9 @@ morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 grep "millionth" data.txt
 ```
 
-![](assets/bandit7/step1.png)
+![](assets/bandit7/bandit7.png)
 
-> **Password:** dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+> **Password:** ################################
 
 ### Explanation
 
@@ -364,7 +364,7 @@ ssh bandit8@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+########################################
 ```
 
 ---
@@ -383,9 +383,9 @@ dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 sort data.txt | uniq -u
 ```
 
-![](assets/bandit8/step1.png)
+![](assets/bandit8/bandit8.png)
 
-> **Password:** 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+> **Password:** ##############################
 
 ### Explanation
 
@@ -400,7 +400,7 @@ ssh bandit9@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+#########################################
 ```
 
 ---
@@ -419,9 +419,9 @@ ssh bandit9@bandit.labs.overthewire.org -p 2220
 strings data.txt | grep "="
 ```
 
-![](assets/bandit9/step1.png)
+![](assets/bandit9/bandit9.png)
 
-> **Password:** FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+> **Password:** ################################
 
 ### Explanation
 
@@ -435,7 +435,7 @@ ssh bandit10@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+################################
 ```
 
 ---
