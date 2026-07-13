@@ -1,0 +1,1 @@
+strong linux cli demonstration
