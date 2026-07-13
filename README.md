@@ -1565,7 +1565,7 @@ This writeup documents all 34 levels with commands, explanations, and screenshot
 # Goodbye!
 
 <p align="center">
-  <img src="assets/coolThings/0xadamastorIcon.png" alt="icon" width="200"/>
+  <img src="assets/bandit-logo/linux.jpeg" alt="icon" width="200"/>
 </p>
 
 <p align="center">
