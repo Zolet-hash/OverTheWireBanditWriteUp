@@ -722,16 +722,16 @@ ssh -i bandit17.key bandit17@bandit.labs.overthewire.org -p 2220
 cat /etc/bandit_pass/bandit17
 ```
 
-![](assets/bandit16/step1.png)
-![](assets/bandit16/step2.png)
-![](assets/bandit16/step3.png)
-![](assets/bandit16/step4.png)
-![](assets/bandit16/step5.png)
-![](assets/bandit16/step6.png)
-![](assets/bandit16/step7.png)
-![](assets/bandit16/step8.png)
+![](assets/bandit16/16a.png)
+![](assets/bandit16/16b.png)
+![](assets/bandit16/16d.png)
+![](assets/bandit16/16ed.png)
+![](assets/bandit16/16e.png)
+![](assets/bandit16/16f.png)
+![](assets/bandit16/16g.png)
+![](assets/bandit16/16h.png)
 
-> **Password:** EReVavePLFHtFlFsjn3hyzMlvSuSAcRD
+> **Password:** ###############################
 
 ### Explanation
 
@@ -751,7 +751,7 @@ ssh bandit17@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-EReVavePLFHtFlFsjn3hyzMlvSuSAcRD
+################################
 ```
 
 ---
