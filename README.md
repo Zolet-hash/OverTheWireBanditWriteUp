@@ -454,9 +454,9 @@ ssh bandit10@bandit.labs.overthewire.org -p 2220
 base64 -d data.txt
 ```
 
-![](assets/bandit10/step1.png)
+![](assets/bandit10/bandit10.png)
 
-> **Password:** dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+> **Password:** ###############################
 
 ### Explanation
 
@@ -470,7 +470,7 @@ ssh bandit11@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+###############################################
 ```
 
 ---
@@ -489,9 +489,9 @@ dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 ```
 
-![](assets/bandit11/step1.png)
+![](assets/bandit11/bandit11.png)
 
-> **Password:** 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+> **Password:** #############################
 
 ### Explanation
 
@@ -512,7 +512,7 @@ ssh bandit12@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+##########################################
 ```
 
 ---
@@ -539,10 +539,10 @@ file data
 # tar   -> tar -xf
 ```
 
-![](assets/bandit12/step1.png)
-![](assets/bandit12/step2.png)
+![](assets/bandit12/bandit12a.png)
+![](assets/bandit12/bandit12b.png)
 
-> **Password:** FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+> **Password:** ################################
 
 ### Explanation
 
@@ -559,7 +559,7 @@ ssh bandit13@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+#################################
 ```
 
 ---
@@ -583,11 +583,10 @@ chmod 600 bandit14.key
 ssh -i bandit14.key bandit14@bandit.labs.overthewire.org -p 2220
 ```
 
-![](assets/bandit13/step1.png)
-![](assets/bandit13/step2.png)
-![](assets/bandit13/step3.png)
+![](assets/bandit13/13a.png)
+![](assets/bandit13/13b.png)
 
-> **Password:** MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+> **Password:** ################################
 
 ### Explanation
 
@@ -609,7 +608,7 @@ ssh bandit15@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+############################################
 ```
 
 ---
@@ -628,9 +627,9 @@ MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 echo "MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS" | nc localhost 30000
 ```
 
-![](assets/bandit14/step1.png)
+![](assets/bandit14/14.png)
 
-> **Password:** 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+> **Password:** #################################
 
 ### Explanation
 
