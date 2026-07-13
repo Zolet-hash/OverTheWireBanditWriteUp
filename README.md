@@ -213,9 +213,9 @@ file ./*
 cat ./-file07
 ```
 
-![](assets/bandit4/step1.png)
+![](assets/bandit4/bandit4.png)
 
-> **Password:** 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+> **Password:** ########################
 
 ### Explanation
 
@@ -229,7 +229,7 @@ ssh bandit5@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+##################################
 ```
 
 ---
@@ -257,9 +257,9 @@ find inhere -type f -size 1033c ! -executable -exec file {} \; | grep ASCII
 cat inhere/maybehere07/.file2
 ```
 
-![](assets/bandit5/step1.png)
+![](assets/bandit5/bandit5.png)
 
-> **Password:** HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+> **Password:** #################################
 
 ### Explanation
 
@@ -282,7 +282,7 @@ ssh bandit6@bandit.labs.overthewire.org -p 2220
 ```
 
 ```bash
-HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+########################################
 ```
 
 ---
